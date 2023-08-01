@@ -1,5 +1,7 @@
 ## ¡Hola! 👋 Soy Diego
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diego-aquino1&label=Profile%20views&color=0e75b6&style=flat" alt="diego-aquino1" /> </p>
+
 ### Acerca de mí
 
 Soy un apasionado de la tecnología y estudiante de Ciencia de la Computación. Me encanta el mundo de la programación y disfruto creando soluciones creativas y eficientes a través del código. Mi objetivo es seguir aprendiendo y creciendo en el campo de la informática mientras contribuyo con proyectos innovadores y significativos.
