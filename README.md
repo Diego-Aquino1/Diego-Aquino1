@@ -17,6 +17,6 @@ Soy un apasionado de la tecnología y estudiante de Ciencia de la Computación. 
 ### Contacto
 
 - [Correo electrónico](mailto:daquino@unsa.edu.pe)
-- [LinkedIn](https://www.linkedin.com/in/tuperfil)
+- [LinkedIn](www.linkedin.com/in/diego-aquino-2b5787274)
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o deseas colaborar en proyectos interesantes, no dudes en contactarme. Estoy emocionado de conectar con otros apasionados de la tecnología y seguir creciendo como profesional en el mundo de la informática.
