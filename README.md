@@ -1,16 +1,22 @@
 ### Hi there 👋
+# ¡Hola! 👋 Soy Diego
 
-<!--
-**Diego-Aquino1/Diego-Aquino1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
 
-Here are some ideas to get you started:
+Soy un apasionado de la tecnología y estudiante de Ciencia de la Computación. Me encanta el mundo de la programación y disfruto creando soluciones creativas y eficientes a través del código. Mi objetivo es seguir aprendiendo y creciendo en el campo de la informática mientras contribuyo con proyectos innovadores y significativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+- Lenguajes de programación: [Lista de lenguajes que dominas, como Python, JavaScript, etc.]
+- Desarrollo web: [Front-end, Back-end, frameworks utilizados, etc.]
+- Bases de datos: [SQL, NoSQL, etc.]
+- Herramientas y tecnologías: [Git, Docker, etc.]
+- Resolución de problemas: [Habilidades de análisis y solución de problemas]
+- Trabajo en equipo: [Experiencia trabajando en proyectos colaborativos]
+
+## Contacto
+
+- [Correo electrónico](mailto:daquino@unsa.edu.pe)
+- [LinkedIn](https://www.linkedin.com/in/tuperfil)
+
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta o deseas colaborar en proyectos interesantes, no dudes en contactarme. Estoy emocionado de conectar con otros apasionados de la tecnología y seguir creciendo como profesional en el mundo de la informática.
