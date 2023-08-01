@@ -2,16 +2,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diego-aquino1&label=Profile%20views&color=0e75b6&style=flat" alt="diego-aquino1" /> </p>
 
-### Acerca de mí
+### About me
 
 Soy un apasionado de la tecnología y estudiante de Ciencia de la Computación. Me encanta el mundo de la programación y disfruto creando soluciones creativas y eficientes a través del código. Mi objetivo es seguir aprendiendo y creciendo en el campo de la informática mientras contribuyo con proyectos innovadores y significativos.
 
-### Contacto
+### Contact
 
 - [Correo electrónico](mailto:daquino@unsa.edu.pe)
 - [LinkedIn](https://www.linkedin.com/in/diego-aquino-2b5787274)
 
-### Habilidades
+### Skills
 
 - Lenguajes de programación: C, C++, Python, Javascript, PHP
 - Desarrollo web: Backend, Frontend, Flask, VueJS, HTML, CSS
