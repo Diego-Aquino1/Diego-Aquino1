@@ -6,12 +6,11 @@ Soy un apasionado de la tecnología y estudiante de Ciencia de la Computación. 
 
 ### Habilidades
 
-- Lenguajes de programación: [Lista de lenguajes que dominas, como Python, JavaScript, etc.]
-- Desarrollo web: [Front-end, Back-end, frameworks utilizados, etc.]
-- Bases de datos: [SQL, NoSQL, etc.]
-- Herramientas y tecnologías: [Git, Docker, etc.]
-- Resolución de problemas: [Habilidades de análisis y solución de problemas]
-- Trabajo en equipo: [Experiencia trabajando en proyectos colaborativos]
+- Lenguajes de programación: C, C++, Python, Javascript
+- Desarrollo web: Backend, Frontend, Flask, VueJS
+- Bases de datos: MySQL, PostgreSQL
+- Herramientas y tecnologías: Git y Github
+- Resolución de problemas: Pensamiento lógico y analítico, debugging
 
 ### Contacto
 
