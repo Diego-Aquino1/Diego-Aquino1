@@ -6,6 +6,11 @@
 
 Soy un apasionado de la tecnología y estudiante de Ciencia de la Computación. Me encanta el mundo de la programación y disfruto creando soluciones creativas y eficientes a través del código. Mi objetivo es seguir aprendiendo y creciendo en el campo de la informática mientras contribuyo con proyectos innovadores y significativos.
 
+### Contacto
+
+- [Correo electrónico](mailto:daquino@unsa.edu.pe)
+- [LinkedIn](https://www.linkedin.com/in/diego-aquino-2b5787274)
+
 ### Habilidades
 
 - Lenguajes de programación: C, C++, Python, Javascript, PHP
@@ -13,11 +18,6 @@ Soy un apasionado de la tecnología y estudiante de Ciencia de la Computación. 
 - Bases de datos: MySQL, PostgreSQL
 - Herramientas y tecnologías: Git y Github
 - Resolución de problemas: Pensamiento lógico y analítico, debugging
-
-### Contacto
-
-- [Correo electrónico](mailto:daquino@unsa.edu.pe)
-- [LinkedIn](https://www.linkedin.com/in/diego-aquino-2b5787274)
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Diego-Aquino1&layout=compact&langs_count=88&theme=dark"/>
 
