@@ -1,4 +1,4 @@
-## ¡Hola! 👋 Soy Diego
+<h1 align="center">Hola, soy Diego 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diego-aquino1&label=Profile%20views&color=0e75b6&style=flat" alt="diego-aquino1" /> </p>
 
