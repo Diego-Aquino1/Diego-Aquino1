@@ -8,8 +8,8 @@ Soy un apasionado de la tecnología y estudiante de Ciencia de la Computación. 
 
 ### Habilidades
 
-- Lenguajes de programación: C, C++, Python, Javascript
-- Desarrollo web: Backend, Frontend, Flask, VueJS
+- Lenguajes de programación: C, C++, Python, Javascript, PHP
+- Desarrollo web: Backend, Frontend, Flask, VueJS, HTML, CSS
 - Bases de datos: MySQL, PostgreSQL
 - Herramientas y tecnologías: Git y Github
 - Resolución de problemas: Pensamiento lógico y analítico, debugging
