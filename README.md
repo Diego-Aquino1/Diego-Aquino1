@@ -19,6 +19,6 @@ Soy un apasionado de la tecnología y estudiante de Ciencia de la Computación. 
 - [Correo electrónico](mailto:daquino@unsa.edu.pe)
 - [LinkedIn](https://www.linkedin.com/in/diego-aquino-2b5787274)
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Diego-Aquino1&layout=compact&langs_count=88&theme=dimmed"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Diego-Aquino1&layout=compact&langs_count=88&theme=dark"/>
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o deseas colaborar en proyectos interesantes, no dudes en contactarme. Estoy emocionado de conectar con otros apasionados de la tecnología y seguir creciendo como profesional en el mundo de la informática.
