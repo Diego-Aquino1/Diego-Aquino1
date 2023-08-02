@@ -18,7 +18,7 @@ Soy un apasionado de la tecnología y estudiante de Ciencia de la Computación. 
 - Bases de datos: MySQL, PostgreSQL
 - Herramientas y tecnologías: Git y Github
 - Resolución de problemas: Pensamiento lógico y analítico, debugging
-
+<br>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Diego-Aquino1&layout=compact&langs_count=88&theme=dark"/>
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o deseas colaborar en proyectos interesantes, no dudes en contactarme. Estoy emocionado de conectar con otros apasionados de la tecnología y seguir creciendo como profesional en el mundo de la informática.
